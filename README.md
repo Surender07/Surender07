@@ -2,7 +2,7 @@
 
 📊 Business Analytics Graduate Sharing my Learnings and Projects in the journey of Business & Data Analytics
 
-📚 Studies Master of Business Analytics at Deakin University, Australia
+📚 Completed Master of Business Analytics at Deakin University, Australia
 
 👨‍💻 Actively Looking for Opportunities in the Data Field
 
